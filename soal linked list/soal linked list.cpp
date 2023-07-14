@@ -1,3 +1,9 @@
+//no 2 Single Linked List, Bubble Sort, Linear Search
+//no 3 Menggunnakan front -1, dan rear -1 jadi dipidahkan atau menggunakan circular array
+// no 4 Penggunaan stack digunakan ketika dimana data yang terakhir dimasukan itu adalah data yang paling awal di delete
+// no 5a 5
+// no 5b  In = 15 20 25 30 31 32 35 48 50 65 66 67 69 70 90 94 98 99
+
 #include <iostream>
 #include <string>
 
